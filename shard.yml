@@ -1,0 +1,17 @@
+name: rantai
+version: 0.1.0
+
+authors:
+  - Craig Richards <craig.richards@clearskieshq.com>
+  
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  rantai:
+    main: src/rantai.cr
+
+crystal: 0.27.2
+
+license: MIT
